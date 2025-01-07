@@ -35,7 +35,7 @@ solana-ai-oracle/
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/your-username/solana-ai-oracle.git
+git clone https://github.com/OAISOL/OAI_solana_oracle.git
 cd solana-ai-oracle
 ```
 
